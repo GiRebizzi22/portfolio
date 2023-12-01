@@ -3,16 +3,18 @@ export default function HeroSection() {
     <section id='heroSection' className='hero--section'>
       <div className='hero--section--content--box'>
         <div className='hero--section--content'>
-          <p className='section--title'>Olá, sou a Giovanna!</p>
+          <p className='section--title'>Seu nome</p>
           <h1 className='hero--section-title'>
-            <span className='hero--section-title--color'> Full Stack </span>{' '}
+            Escreva aqui a
             <br />
-            Developer
+            <span className='hero--section--title--color'>
+              {' '}
+              área em que trabalha{' '}
+            </span>
           </h1>
           <p className='hero--section-description'>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br />
-            Dolorum, quas. Amet soluta assumenda cum?
+            Escreva uma breve descição sobre sua formação, seu trabalho atual ou
+            sobre algo que esteja procurando.
           </p>
         </div>
         <button className='btn btn-primary'>Get In Touch</button>

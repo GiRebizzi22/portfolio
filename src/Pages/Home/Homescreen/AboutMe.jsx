@@ -9,14 +9,15 @@ export default function AboutMe() {
       about--section--box'
       >
         <div className='hero--section--content'>
-          <p className='section--title'>About</p>
+          {/* <p className='section--title'>About</p> */}
           <h1 className='skills--section--heading'>About Me</h1>
           <p className='hero--section--description'>
-            Lorem ipsum dolor sit amet consectetur...
+            Área dedicada para uma breve e objetiva descrição sobre você e seu
+            trabalho.
           </p>
-          <p className='hero--section--description'>
+          {/* <p className='hero--section--description'>
             Lorem ipsum dolor sit amet consectetur...adipisicing elit.
-          </p>
+          </p> */}
         </div>
       </div>
     </section>

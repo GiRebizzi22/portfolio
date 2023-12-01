@@ -2,16 +2,14 @@ export default function ContactMe() {
   return (
     <section id='Contact' className='contact--section'>
       <div>
-        <p className='sub--title'>Get In Touch</p>
-        <h2>Contact Me</h2>
-        <p className='text-lg'>
-          Loren impsum dolor tarar pururu and blablabla pipipi popopo
-        </p>
+        <p className='sub--title'></p>
+        <h2>Entre em contato:</h2>
+        <p className='text-lg'>Preencha os blocos para mais informações</p>
       </div>
       <form className='contact--form--conteiner'>
         <div className='container'>
           <label htmlFor='first-name' className='contact--label'>
-            <span className='text-md'>First Name</span>
+            <span className='text-md'>Nome</span>
             <input
               type='text'
               className='contact--input
@@ -22,7 +20,7 @@ export default function ContactMe() {
             />
           </label>
           <label htmlFor='last-name' className='contact--label'>
-            <span className='text-md'>Last Name</span>
+            <span className='text-md'>Sobrenome</span>
             <input
               type='text'
               className='contact--input
@@ -44,7 +42,7 @@ export default function ContactMe() {
             />
           </label>
           <label htmlFor='phone-number' className='contact--label'>
-            <span className='text-md'>Phone-Number</span>
+            <span className='text-md'>Telefone</span>
             <input
               type='number'
               className='contact--input
@@ -55,7 +53,7 @@ export default function ContactMe() {
             />
           </label>
         </div>
-        <label htmlFor='choose-topic' className='contact--label'>
+        {/* <label htmlFor='choose-topic' className='contact--label'>
           <span className='text-md'>Choose a topic</span>
           <select id='choose-topic' className='contact--input text-md'>
             <option>Select One...</option>
@@ -63,28 +61,28 @@ export default function ContactMe() {
             <option>Item 2</option>
             <option>Item 3</option>
           </select>
-        </label>
+        </label> */}
         <label htmlFor='message' className='contact--label'>
-          <span className='text-md'>Message</span>
+          <span className='text-md'>Deixe sua mensagem:</span>
           <textarea
             className='contact--input
                 text-md'
             name='message'
             id='message'
             rows='8'
-            placeholder='Type your message...'
+            placeholder='Escreva aqui...'
           />
         </label>
         <label htmlFor='checkbox' className='checkbox--label'>
           <input type='checkbox' required name='checkbox' id='checkbox' />
-          <span className='text-sm'>I accept the terms</span>
+          <span className='text-sm'>Eu li e aceito os termos.</span>
         </label>
         <div>
           <button
             className='btn btn-primary
             contact--form--btn'
           >
-            Submit
+            Enviar
           </button>
         </div>
       </form>

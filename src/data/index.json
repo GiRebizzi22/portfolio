@@ -2,27 +2,27 @@
   "skills": [
     {
       "id": "1",
-      "src": "./img/product-chain-1.png",
+      "src": "./img/frontend.png",
       "title": "Front-End",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo"
+      "description": "Descreva um pouco do seu trabalho nesta área."
     },
     {
       "id": "2",
-      "src": "./img/tag-1.png",
+      "src": "./img/backend.icon.png",
       "title": "Back-End",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo"
+      "description": "Descreva um pouco do seu trabalho nesta área."
     },
     {
       "id": "3",
-      "src": "./img/feather-pen-2.png",
+      "src": "./img/ux.icon.png",
       "title": "UI & UX Design",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo"
+      "description": "Descreva um pouco do seu trabalho nesta área."
     },
     {
       "id": "4",
-      "src": "./img/feather-pen-1.png",
+      "src": "./img/webdevelopment.icon.png",
       "title": "Webflow Development",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo"
+      "description": "Descreva um pouco do seu trabalho nesta área."
     }
   ],
 
@@ -31,21 +31,21 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Ahuse",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo",
+      "description": "Descreva seu projeto.",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "App Dashboard",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo",
+      "description": "Descreva seu projeto.",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Easy Rentn",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo",
+      "description": "Descreva  seu projeto.",
       "link": "View In Github"
     }
   ],
@@ -56,7 +56,7 @@
       "count": "5",
       "src": "./img/avatar-image.png",
       "title": "Ahuse",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo",
+      "description": "Loren impsum dolor.",
       "author_name": "Dylan Russel",
       "author_designation": "Starbucks"
     },
@@ -65,7 +65,7 @@
       "count": "5",
       "src": "./img/avatar-image-1.png",
       "title": "Ahuse",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo",
+      "description": "Loren impsum dolor.",
       "author_name": "Liam Watson",
       "author_designation": "Louis Vuitton"
     },
@@ -74,7 +74,7 @@
       "count": "5",
       "src": "./img/avatar-image-2.png",
       "title": "Ahuse",
-      "description": "Loren impsum dolor tarar pururu and blablabla pipipi popopo",
+      "description": "Loren impsum dolor.",
       "author_name": "Louis Murphy",
       "author_designation": "McDonald´s"
     }
