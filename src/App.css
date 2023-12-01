@@ -233,6 +233,7 @@ h2 {
   width: 100%;
   height: 100%;
 }
+
 /* Hero Section Style Ends */
 
 /* Skills Section Style */
@@ -244,11 +245,16 @@ h2 {
   align-items: flex-start;
   gap: 106.667px;
 }
+
+.section--title {
+  margin: 2px 15px;
+}
 .skills--section--heading {
   color: var(--heading-color);
   font-size: 64px;
   font-weight: 700;
   line-height: 77px;
+  margin: 2px 12px;
 }
 .skills--section--container {
   display: grid;
