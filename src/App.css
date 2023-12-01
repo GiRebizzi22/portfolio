@@ -102,7 +102,7 @@ h2 {
 }
 /* Heading 3 */
 h2 {
-  font-size: 24px;
+  font-size: 36px;
   font-weight: 700;
   line-height: 34px;
 }
@@ -189,7 +189,7 @@ h2 {
   cursor: pointer;
 }
 .navbar--active-content {
-  color: var(--primary);
+  color: var(--white);
 }
 /* Navbar Styler Ends */
 
@@ -262,7 +262,8 @@ h2 {
   font-size: 64px;
   font-weight: 700;
   line-height: 77px;
-  margin: 2px 12px;
+  margin: 8px 12px;
+  padding: 20px;
 }
 .skills--section--container {
   display: grid;

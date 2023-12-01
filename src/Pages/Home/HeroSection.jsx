@@ -13,8 +13,8 @@ export default function HeroSection() {
             </span>
           </h1>
           <p className='hero--section-description'>
-            Escreva uma breve descição sobre sua formação, seu trabalho atual ou
-            sobre algo que esteja procurando.
+            Escreva uma breve descrição sobre sua formação, seu trabalho atual
+            ou sobre algo que esteja procurando.
           </p>
         </div>
         <button className='btn btn-primary'>Get In Touch</button>
